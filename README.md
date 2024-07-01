@@ -29,3 +29,4 @@ I can use computational graphics to expand on future classes such as Full Stack 
 
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
 Computer graphics will help me in my professional goals of becoming a game developer.
+
