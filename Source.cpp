@@ -1,6 +1,6 @@
 /*
 * CS330 - Module Five Milestone
-* Credit to original author: Professor Brian Battersby, SNHU
+* Mesh credit to original author: Professor Brian Battersby, SNHU
 * Student: Emmanuela Filev-Mihalak
 * September 23, 2023
 */
